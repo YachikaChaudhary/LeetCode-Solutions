@@ -34,6 +34,6 @@ class Solution {
 
 
         lN.next = curr;
-        return head;
+        
     }
 }
