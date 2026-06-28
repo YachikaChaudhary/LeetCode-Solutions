@@ -4,18 +4,41 @@ import shutil
 
 topics = {
     "array": "Array",
-    "two sum": "Array",
-    "hash table": "Hash Table",
-    "binary search": "Binary Search",
-    "linked list": "Linked List",
+    "two-sum": "Array",
+
+    "hash": "Hash Table",
+
+    "binary-search": "Binary Search",
+
+    "linked-list": "Linked List",
+    "linked": "Linked List",
+
     "stack": "Stack",
     "queue": "Queue",
+
     "tree": "Trees",
+    "binary-tree": "Trees",
+
     "graph": "Graphs",
-    "dynamic programming": "Dynamic Programming",
+
+    "dynamic-programming": "Dynamic Programming",
+    "dynamic": "Dynamic Programming",
+    "dp": "Dynamic Programming",
+
     "backtracking": "Backtracking",
+
     "greedy": "Greedy",
-    "sliding window": "Sliding Window"
+
+    "sliding-window": "Sliding Window",
+
+    "heap": "Heap",
+    "priority-queue": "Heap",
+
+    "recursion": "Recursion",
+
+    "trie": "Trie",
+
+    "bit": "Bit Manipulation"
 }
 
 
