@@ -3,42 +3,110 @@ import shutil
 
 
 topics = {
+
+    # Basic Data Structures
     "array": "Array",
-    "two-sum": "Array",
-
-    "hash": "Hash Table",
-
-    "binary-search": "Binary Search",
+    "matrix": "Matrix",
+    "string": "String",
 
     "linked-list": "Linked List",
     "linked": "Linked List",
 
     "stack": "Stack",
     "queue": "Queue",
+    "deque": "Deque",
 
-    "tree": "Trees",
-    "binary-tree": "Trees",
-
-    "graph": "Graphs",
-
-    "dynamic-programming": "Dynamic Programming",
-    "dynamic": "Dynamic Programming",
-    "dp": "Dynamic Programming",
-
-    "backtracking": "Backtracking",
-
-    "greedy": "Greedy",
-
-    "sliding-window": "Sliding Window",
+    "hash": "Hash Table",
+    "map": "Hash Table",
 
     "heap": "Heap",
     "priority-queue": "Heap",
 
-    "recursion": "Recursion",
-
     "trie": "Trie",
 
-    "bit": "Bit Manipulation"
+    # Searching
+    "binary-search": "Binary Search",
+    "search": "Searching",
+
+    # Sorting
+    "sort": "Sorting",
+    "sorting": "Sorting",
+
+    # Two pointers / Sliding window
+    "two-pointer": "Two Pointers",
+    "two-sum": "Two Pointers",
+
+    "sliding-window": "Sliding Window",
+
+    "prefix-sum": "Prefix Sum",
+
+    # Recursion / Backtracking
+    "recursion": "Recursion",
+    "recursive": "Recursion",
+
+    "backtracking": "Backtracking",
+    "permutation": "Backtracking",
+    "combination": "Backtracking",
+    "subset": "Backtracking",
+
+    # Trees
+    "tree": "Trees",
+    "binary-tree": "Trees",
+    "bst": "Binary Search Tree",
+    "binary-search-tree": "Binary Search Tree",
+
+    # Graphs
+    "graph": "Graphs",
+    "bfs": "Graphs",
+    "dfs": "Graphs",
+    "topological": "Graphs",
+    "shortest-path": "Graphs",
+
+    # Dynamic Programming
+    "dynamic-programming": "Dynamic Programming",
+    "dp": "Dynamic Programming",
+    "memoization": "Dynamic Programming",
+    "tabulation": "Dynamic Programming",
+
+    # Greedy
+    "greedy": "Greedy",
+
+    # Math
+    "math": "Math",
+    "mathematical": "Math",
+    "number": "Math",
+    "prime": "Math",
+    "gcd": "Math",
+    "lcm": "Math",
+    "modulo": "Math",
+
+    # Bit manipulation
+    "bit": "Bit Manipulation",
+    "xor": "Bit Manipulation",
+
+    # Common patterns
+    "palindrome": "String",
+    "anagram": "String",
+    "substring": "String",
+    "subsequence": "String",
+
+    "interval": "Intervals",
+
+    "simulation": "Simulation",
+
+    # Advanced topics
+    "union-find": "Disjoint Set Union",
+    "disjoint": "Disjoint Set Union",
+
+    "segment-tree": "Segment Tree",
+
+    "fenwick": "Fenwick Tree",
+
+    "divide": "Divide and Conquer",
+
+    "geometry": "Geometry",
+
+    # Fallback
 }
 
 
