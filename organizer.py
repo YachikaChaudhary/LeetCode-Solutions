@@ -73,7 +73,7 @@ for item in os.listdir():
                 exist_ok=True
             )
 
-            shutil.copytree(
+            shutil.move(
                 item,
                 destination
             )
